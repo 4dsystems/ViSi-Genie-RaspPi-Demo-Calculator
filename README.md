@@ -10,7 +10,7 @@ calculator.zip contains the files for 4D Systems Workshop 4 Visi-Genie Environme
 
 calculator.c contains the demo code for the Raspberry Pi
 
-The ViSi-Genie-RaspPi-Library is required for this demo, please download that separately.
+The ViSi-Genie-RaspPi-Library is required for this demo, please download that separately (http://www.github.com/4dsystems/ViSi-Genie-RaspPi-Library)
 
 
 ## Installation on the Raspberry Pi
