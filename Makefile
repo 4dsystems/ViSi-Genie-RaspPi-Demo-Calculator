@@ -12,7 +12,7 @@ INCLUDE	= -I/usr/local/include
 CFLAGS	= $(DEBUG) -Wall $(INCLUDE) -Winline -pipe
 
 LDFLAGS	= -L/usr/local/lib
-LIBS    = -lm -lpthread -lwiringPi -lgeniePi
+LIBS    = -lm -lpthread -lgeniePi
 
 SRC	= calculator.c
 
