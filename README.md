@@ -3,7 +3,9 @@
 ViSi-Genie-RaspPi-Demo-Calculator
 =================================
 
-4D Systems Raspberry Pi Library for Visi-Genie
+4D Systems Raspberry Pi ViSi-Genie Demo - Calculator
+
+This is a fully working calculator, using the Raspberry Pi as the processor and the 4D Systems display module as the interface
 
 
 calculator.zip contains the files for 4D Systems Workshop 4 Visi-Genie Environment
